@@ -1,0 +1,1 @@
+{"description":"Anchor — an autonomous Solana paper-trading agent with strict risk policy and a public journal. Built for the Steve Agent Arena (OOBE Protocol).","engines":{"node":">=22.6.0"},"license":"MIT","name":"anchor-agent","scripts":{"agent":"node src/agent.ts","demo":"node demo/run-demo.ts"},"type":"module","version":"1.0.0"}
